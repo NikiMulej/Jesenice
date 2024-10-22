@@ -1,3 +1,3 @@
 # Jesenice
-Moj prvi repository
+Moj prvi repository,
 čokolino je najbol.
